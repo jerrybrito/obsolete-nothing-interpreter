@@ -1,0 +1,2 @@
+# Requires: forgotten-emptiness
+# (Not available on PyPI)
